@@ -3,4 +3,4 @@
  * Copyright : STMicroelectronics 2019
  */
 
-#include "stm32mp157f-me-tcu-u-boot.dtsi"
+#include "stm32mp157c-dk2-u-boot.dtsi"
