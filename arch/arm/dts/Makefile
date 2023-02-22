@@ -1094,6 +1094,7 @@ dtb-$(CONFIG_STM32MP15x) += \
 	stm32mp157d-ed1.dtb \
 	stm32mp157d-ev1.dtb \
 	stm32mp157f-dk2.dtb \
+	stm32mp157f-me-tcu.dtb \
 	stm32mp157f-ed1.dtb \
 	stm32mp157f-ev1.dtb \
 	stm32mp15xx-dhcom-pdk2.dtb \
